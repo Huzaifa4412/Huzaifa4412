@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan and A student at GIAIC (Governor’s Initiative) with a deep passion for building, coding, and creating innovative solutions in the tech space. 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa4412&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa4412" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifa4412" alt="huzaifa4412" /></a> </p>
-
 - 🔭 I’m currently working on [Nextjs](aurabyns.store)
 
 - 🌱 I’m currently learning **Nextjs, reactjs**
