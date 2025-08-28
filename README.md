@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
 <h2>👨‍💻 Software Developer | Full-Stack Engineer</h2>
 
+<p>💻 Python | JavaScript | React | Next.js (v15+) | TailwindCSS (v4+) | FastAPI</p>
+<p>⚡ OpenAI Agents SDK | AI Integrations | Scalable Systems</p>
+
+<br/>
+
 <ul>
   <li>🔹 Strong in <b>Python</b>, <b>JavaScript</b>, <b>React</b>, <b>Next.js (v15+)</b>, <b>TailwindCSS (v4+)</b>, and <b>FastAPI</b></li>
-  <li>🔹 Experienced with <b>OpenAI Agents SDK</b>, AI integrations, and scalable backend systems</li>
+  <li>🔹 Experienced with <b>OpenAI Agents SDK</b>, AI integrations, and Frontend Technologies</li>
   <li>🔹 Focused on <b>clean code</b>, <b>performance</b>, and <b>industry best practices</b></li>
   <li>🔹 Building production-ready applications: dashboards, APIs, and AI-powered solutions</li>
 </ul>
 
 <p>🌐 <a href="https://huzaifa-mukhtar-official.vercel.app" target="_blank">Portfolio Website</a></p>
+
+
 
 - 🔭 I’m currently working on [Nextjs](aurabyns.store)
 
