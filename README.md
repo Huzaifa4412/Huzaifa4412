@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
-<h3 align="center">A passionate frontend developer from Pakistan and A student at GIAIC (Governor’s Initiative) with a deep passion for building, coding, and creating innovative solutions in the tech space. 🚀</h3>
+<h2>👨‍💻 Software Developer | Full-Stack Engineer</h2>
+
+<ul>
+  <li>🔹 Strong in <b>Python</b>, <b>JavaScript</b>, <b>React</b>, <b>Next.js (v15+)</b>, <b>TailwindCSS (v4+)</b>, and <b>FastAPI</b></li>
+  <li>🔹 Experienced with <b>OpenAI Agents SDK</b>, AI integrations, and scalable backend systems</li>
+  <li>🔹 Focused on <b>clean code</b>, <b>performance</b>, and <b>industry best practices</b></li>
+  <li>🔹 Building production-ready applications: dashboards, APIs, and AI-powered solutions</li>
+</ul>
+
+<p>🌐 <a href="https://huzaifa-mukhtar-official.vercel.app" target="_blank">Portfolio Website</a></p>
 
 - 🔭 I’m currently working on [Nextjs](aurabyns.store)
 
