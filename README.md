@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
 <h2>👨‍💻 Software Developer | Full-Stack Engineer</h2>
 
-<p>💻 Python | JavaScript | React | Next.js (v15+) | TailwindCSS (v4+) | FastAPI</p>
+<p>💻 Python | JavaScript | Typescript | C | C++ | React | Next.js (v15+) | TailwindCSS (v4+) | FastAPI</p>
 <p>⚡ OpenAI Agents SDK | AI Integrations | Scalable Systems</p>
 
 <br/>
